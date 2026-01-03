@@ -1,0 +1,14 @@
+source_root: /mnt/e
+device_root: /mnt/d
+device_library_root: /mnt/d/music
+
+audio_extensions:
+  - .mp3
+  - .flac
+  - .m4a
+  - .aac
+  - .ogg
+  - .wav
+  - .aiff
+  - .ape
+  - .wma
